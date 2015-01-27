@@ -26,6 +26,7 @@ the problem with that is that most of these projects have literally 1000s of iss
 That can be pretty intimidating for a newcomer. Luckily, I stumbled upon a neat
 little Javascript library called [TheaterJS](http://github.com/Zhouzi/TheaterJS).
 The appeal of this project was three-fold:
+
 - It was written in Javascript, a language I'm fairly familiar with
 - It's codebase was small and condensed. Everything was in a single file of about
 400 lines
