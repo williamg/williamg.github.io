@@ -6,7 +6,7 @@ categories: programming
 ---
 ![Lights!](http://lights.williamg.me/style/lights.png)
 
-### About Lights
+## About Lights
 I just recently finished developing an adaptation of the classic "Lights Out"
 game. For those of you who aren't familiar, the object of the game is to turn
 on all the lights on the grid. Whenever you toggle a light, all 4 adjacent lights
@@ -22,7 +22,7 @@ tapping it at all. Likewise, tapping a light an odd number of times is the same
 as tapping it only once. What this mean is every solvable board can be solved by
 tapping a subset of lights only once. Pretty nifty.
 
-### Design and Structure
+## Design and Structure
 I have a really bad habit of over-engineering my code. I actually started this
 project last May, but I didn't get very far. I started looking at the code again
 about a week ago and was pretty overwhelmed. It consisted of about five
@@ -44,7 +44,7 @@ elegantly add it to the design. I'm not too upset about this, but I never really
 like when form gets in the way of function. Perhaps a better designer than I could
 come up with a solution.
 
-### Development
+## Development
 The development process went fairly quickly, which is a first. I did get to play
 with a few things that I hadn't before, though. For example, this was the first
 time I had ever used CSS3 transitions, and boy are they cool! It made the Javascript
@@ -79,7 +79,7 @@ using the `file:///` protocol, which makes local development very difficult. (As
 an aside, Google Chrome supposedly has a flag to enable file cookies, but I couldn't
 get it to work). 
 
-### Takeaways
+## Takeaways
 I think the biggest thing I gained from Lights was finally finishing a project
 and releasing it to the public. I don't think I've ever done it before and it's
 a really good feeling to finish something and be satisfied with it. I would deeply

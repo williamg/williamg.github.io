@@ -2,9 +2,8 @@
 title: William Ganucheau
 #email: williamg.online@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a freshman studying computer science at Carnegie Mellon University. In my
-  free time I write code, eat, sleep, and play video games. This is where I
-  write about things that interest me.
+  I'm a freshman studying computer science at Carnegie Mellon University. I like
+  writing beautiful code that does cool things.
 baseurl: ""
 url: "http://williamg.me" # the base hostname & protocol for your site
 twitter_username: wganucheau
@@ -12,3 +11,4 @@ github_username:  williamg
 
 # Build settings
 markdown: kramdown
+permalink: /blog/:title
