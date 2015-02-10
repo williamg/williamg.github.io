@@ -12,3 +12,6 @@ github_username:  williamg
 # Build settings
 markdown: kramdown
 permalink: /blog/:title
+
+gems:
+  - jekyll-redirect-from

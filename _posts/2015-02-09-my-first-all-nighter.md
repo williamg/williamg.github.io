@@ -3,12 +3,13 @@ layout: post
 title: My First All-Nighter
 date: 2015-02-10 00:00:00
 categories: programming cmu
+redirect_from: /blog/My-First-All-Nighter/
 ---
 
 It seems to be more and more common for students to brag (or complain, regret)
 about how little sleep they got the previous night. It definitely happened at
 my highschool and it's even more prevalent here at CMU. Fortunately, I had been
-lucky enough to never have to pull an all-nighter...until last weekend when 
+lucky enough to never have to pull an all-nighter...until last weekend when
 I participated in my first ever hackathon here at CMU. TartanHacks 2015 was a
 blast and probably one of the most enjoyable all-nighters I'll ever experience.
 
