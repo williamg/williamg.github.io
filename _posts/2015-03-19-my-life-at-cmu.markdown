@@ -86,7 +86,7 @@ over my math assignment, I was pretty satisfied. Still, it seems as though this
 pattern of routineness is inevitable; or at least I haven't found a solution.
 This semester is pretty much the same except I have a lot more work. Great
 Theoretical Ideas for Computer Scientists (15-251) is, according to many, one of the most
-challenging CS courses students are required to take at Carneige Mellon; I easily
+challenging CS courses students are required to take at Carnegie Mellon; I easily
 dedicate 6-10 hours per week just working on the homework not to mention attending
 lectures and "homework writing sessions." (don't ask...)
 
@@ -120,7 +120,7 @@ He's done some pretty freaking cool things like
 and leading the pack for the [Google Lunar XPrize](http://lunar.xprize.org).
 I walked into his office one day and asked him if there would be room for me to
 work in his lab and within a month (he's a busy guy) I was writing software
-for a 30cm x 30cm x 30cm experimental lunar rover. Opporunities and perks abound
+for a 30cm x 30cm x 30cm experimental lunar rover. Opportunities and perks abound
 at CMU, and I've done my best to take advantage of them as much as possible.
 
 ## The Journey Continues
