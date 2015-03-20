@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Life at CMU
+title: My Life at Carnegie Mellon
 date: 2015-03-19 17:51:00
 categories: life cmu
 ---
