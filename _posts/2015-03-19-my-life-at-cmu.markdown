@@ -33,7 +33,7 @@ much on the social scene at CMU either.
 
 ## First Impressions
 
-As a freshman, you'll first real look at CMU will be during orientation week.
+As a freshman, your first real look at CMU will be during orientation week.
 I mean sure, those summer tours are great, but they don't really give you a feel
 for the campus and student body. Before anything else, you have to move in. I must
 say, the orientation staff make this absolutely painless. I got out of my car,
@@ -58,7 +58,7 @@ I was scheduling my classes I for some reason still felt the need to "prove" mys
 To justify my presence. I thought that the best way to do this was to take
 as many hard classes as I possibly could. As if somehow I was being a slacker
 if I wasn't taking the maximum number of units every semester. Within about two weeks, I gravely
-regretted my deecision. One of the most dangerous traps that I fell into during
+regretted my decision. One of the most dangerous traps that I fell into during
 that first semester (and still do to this day) is making the assumption that
 because my computer science classes are super hard (and they are), all of my
 other classes are super easy. (and they aren't) Matter and Interactions kicked
