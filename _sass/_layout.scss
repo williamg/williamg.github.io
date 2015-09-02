@@ -153,15 +153,90 @@
 		font-size: $blog-content-font-size;
 		color: $light-color;
 	}
+
+	@include media-query ($mobile) {
+		display: none;
+	}
+}
+
+#header {
+	display: none;
+
+	@include media-query ($mobile) {
+		@include calc (width, "100% - 64px");
+
+		float: left;
+		display: block;
+		padding: $spacing-unit;
+
+		#header-content {
+			float: left;
+			width: 100%;
+
+			h2 a, h2 a:active, h2 a:visited {
+				float: left;
+				width: 11 * $spacing-unit;
+				font-family: $base-font-family;
+				font-size: $blog-header-font-size;
+				color: $light-color;
+				text-decoration: none;
+			}
+
+			#menu-button {
+				float: right;
+				color: $light-color;
+				font-size: $blog-header-font-size;
+			}
+
+			#mobile-menu {
+				float: left;
+				width: 100%;
+			}
+
+			a.vertical {
+				@include calc (width, "100% - 32px");
+
+				color: $light-color;
+				font-size: $blog-content-font-size;
+				font-family: $base-font-family;
+				display: block;
+				float: left;
+				height: (1.5 * $spacing-unit) - 4;
+				text-align: left;
+				text-decoration: none;
+				line-height: (1.5 * $spacing-unit) - 4;
+				border: 2px solid $light-color;
+				margin-top: 0.5 * $spacing-unit;
+				padding-left: $spacing-unit;
+			}
+
+			a.vertical:hover {
+				background-color: $light-color;
+				color: $base-color;
+			}
+		}
+	}
 }
 
 .blog-content {
 	width: 17 * $spacing-unit;
 	padding: $spacing-unit;
 	margin-left: 13 * $spacing-unit;
+	color: $base-color;
+	font-family: $base-font-family;
+
+	@include media-query ($mobile) {
+		@include calc(width, "100% - 64px");
+		float: left;
+		margin-left: 0px;
+	}
 
 	.blog-content:first-child {
 		margin-top: 200px;
+
+		@include media-query ($mobile) {
+			margin-top: 0px;
+		}
 	}
 
 	h1 a, h1 {
@@ -187,14 +262,21 @@
 
 	> article:first-of-type {
 		margin-top: 200px;
+
+		@include media-query ($mobile) {
+			margin-top: 0px;
+		}
 	}
 
 	> h1:first-of-type {
 		margin-top: 200px;
+
+		@include media-query ($mobile) {
+			margin-top: 0px;
+		}
 	}
 
 	article {
-
 		border-bottom: 1px solid #EEE;
 		margin-bottom: $spacing-unit;
 
