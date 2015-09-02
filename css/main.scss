@@ -19,9 +19,8 @@ $light-color:       #FFF;
 $base-color:        #00273D;
 
 // Width of the content area
-$content-width:    1024px;
-$on-palm:          600px;
-$on-laptop:        800px;
+$content-width:    22 * $spacing-unit;
+$mobile:           $content-width;
 
 
 
@@ -36,6 +35,12 @@ $on-laptop:        800px;
     @media screen and (max-width: $device) {
         @content;
     }
+}
+
+@mixin calc ($property, $expression) {
+	#{$property}: calc(#{$expression});
+	#{$property}: -webkit-calc(#{$expression});
+	#{$property}: -moz-calc(#{$expression});
 }
 
 
