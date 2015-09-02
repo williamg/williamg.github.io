@@ -5,6 +5,10 @@
 	margin: auto auto;
 	position: relative;
 	top: 40%;
+
+	@include media-query ($mobile) {
+		top: $spacing-unit;
+	}
 }
 
 .light {
