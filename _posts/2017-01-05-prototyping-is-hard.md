@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fleet Devblog #1: Prototyping is hard"
+title: "Fleet Devblog #1: Prototyping is Hard"
 date: 2017-01-05 13:00:00
 categories: gamedev devblog fleet programming
 ---
