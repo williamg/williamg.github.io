@@ -36,8 +36,8 @@ once, but in my experience, I've never met anyone who encouraged others to be
 stressed out. It's not an accomplishment to pull an all-nighter, even though
 they definitely happen. Instead, what I will say is CMU teaches you how to deal
 with the stress. Or at least, it taught me. Though I'm proud to say that I
-made it without ever pulling an all-nighter, and fairly consistently getting
-7+ hours of sleep per night. However, I didn't have much of a life outside
+made it without ever pulling an all-nighter (for school work), and fairly consistently getting
+7+ hours of sleep per night. That said, I didn't have much of a life outside
 school.
 
 ## Coursework
