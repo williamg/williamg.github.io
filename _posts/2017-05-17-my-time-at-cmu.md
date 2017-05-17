@@ -178,7 +178,7 @@ finals week my freshman fall when Microsoft hired professional masseuses to
 give free massages to CS students. This is an extreme example, but almost every
 other week there is some company set up in the CS building offering T-shirts or
 cookies or coffee, or other random swag in exchange for resumes or conversation
-with a recruiter. After my freshman year, I applied to serveral companies including
+with a recruiter. After my freshman year, I applied to several companies including
 some bigger ones (Google, Microsoft) and some smaller random startups, but didn't
 get any offers (I got interviews for about half). After my sophomore year,
 I applied to fewer companies, but got an offer from every
