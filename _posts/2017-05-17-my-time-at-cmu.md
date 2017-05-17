@@ -160,6 +160,16 @@ the class, I passed with an A, but I learned so much more from teaching than I
 did from taking the course. Being the first class on data sturctures and algorithms,
 increasing my mastery of those topics will definitely help me in the long run.
 
+### FOCUS
+
+FOCUS is the Fellowship of Catholic University Students. I've been Catholic my
+whole life and immediately sought other like-minded students on campus. What I
+found were 4 dedicated missionaries who invited me to join bible studies, participate in discipleship,
+and just hang out with other Catholic students at Carnegie Mellon. I think without
+this connection, I could have had a rough time not just in my faith life, but
+in my every day life. The Catholic community at CMU provided a solid group of
+friends and a sense of community that I don't think I would have had otherwise.
+
 ## Recruiting and Internships
 
 One thing I didn't really expect going into CMU was the extent to which major
@@ -176,7 +186,36 @@ company that gave me an interview: Google, JPL, and Narrative Science. I
 ended up accepting JPLs offer and spent the summer working on path planning
 algorithms for the Mars 2020 mission.
 
-## Life after College
+## Regrets
+
+Some things I planned on doing as an incoming freshman never panned out. This
+is a list of some of those things:
+
+- I never attended PennApps. Hackathon culture at CMU is huge, and I was really involved
+for a year or so, serving on the board of Mellonheads, the primary club for all
+things hackathon. Despite this, I never made it to PennApps, the world's largest
+collegiate hackathon. The reason for this is mainly that I could never convince
+myself I had the time to go. My weekends were precious for getting work done,
+and it was hard to give them up. I did make it to a hackathon hosted by CMU on
+campus, which [I've written about](http://williamg.me/blog/my-first-all-nighter),
+but I never made it to "the big leagues"
+- I never painted The Fence. The Fence is a tradition at Carnegie Mellon. In the heart
+of campus, The Fence has been painted hundreds of times by the students. On campus
+organizations "take the fence" to promote upcoming events or just for fun, completely
+covering the structure in a layer of paint between the hours of midnight and 6am.
+Unfortunately, this was a tradition that I never got to be a part of.
+- I never participated in Buggy/Booth. Carnival is pretty much the only "party weekend"
+for CMU. THe weekend is filled with fun including Buggy, in which teams 
+race their aerodynamic vehicles at high speeds around campus, and Booth, in which
+campus orgnanizations build large, often multistory structures for viewers to
+walk through and admire. It's a fun weekend, but participating in either event
+is a huge time commitemnt and my time was precious.
+
+All in all, most of these come down to me not wanting to give up my time. I'd
+urge those who come after me to be less of a Scrooge and have a little fun. You'll
+regret it if you don't.
+
+## Life After College
 
 I graduated from CMU in 3 years and acquired about $90,000 in student loan
 debt. I accepted a job at [ASV Global](https://www.asvglobal.com/) where I'll
