@@ -2,7 +2,7 @@
 title: William Ganucheau
 #email: williamg.online@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a senior studying computer science at Carnegie Mellon University. I like
+  I'm a software engineer currently developing path planning algorithms for autonomous boats. I like
   writing beautiful code that does cool things.
 baseurl: ""
 url: "http://williamg.me" # the base hostname & protocol for your site
