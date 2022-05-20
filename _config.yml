@@ -4,7 +4,7 @@ title: William Ganucheau
 description: > # this means to ignore newlines until "baseurl:"
   I'm a software engineer and dad currently working on autonomous forklifts. On the side, I develop video games.
 baseurl: ""
-url: "http://williamg.me" # the base hostname & protocol for your site
+url: "https://williamg.me" # the base hostname & protocol for your site
 twitter_username: ganashaw
 github_username:  williamg
 
