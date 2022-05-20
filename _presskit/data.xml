@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?> <company>
+  <title>Will Ganucheau</title>
+  <based-in>Louisiana, USA</based-in>
+  <website>http://williamg.me</website>
+  <founding-date>2022</founding-date>
+  <press-contact>
+	  ganashawgames@gmail.com
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <phone>Do people use phones anymore?</phone>
+  <address>
+	  <line>
+		  Please
+      <!-- Street -->
+    </line>
+    <line>
+		Don't
+      <!-- City -->
+    </line>
+    <line>
+		Mail me
+      <!-- Country -->
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Twitter</name>
+      <link>
+		  https://twitter.com/ganashaw
+      </link>
+    </social>
+  </socials>
+
+  <description>Hi, I'm Will. I'm a full-time software developer, full-time dad, and part-time game developer.</description>
+
+  <!-- Choose between a single block: -->
+  <history>I released my first game, Exodemic, in 2022. I worked on many other games that never saw the light of day before that.</history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <trailers>
+    <trailer>
+      <name>Exodemic</name>
+
+      <!-- Pick one: -->
+      <youtube>
+		  FQa_PAXa_Hc
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <awards>
+    <award>
+      <description>Best Game Developer I Know</description>
+      <info>-My wife, January 2022</info>
+    </award>
+</awards>
+
+  <!--
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+  <credits>
+    <credit>
+      <person></person>
+      <role></role>
+    </credit>
+  </credits>
+
+  -->
+  <contacts>
+    <contact>
+      <name>Will Ganucheau</name>
+
+      <!-- Pick one: -->
+      <mail>ganashawgames@gmail.com</mail>
+    </contact>
+  </contacts>
+</company>
+

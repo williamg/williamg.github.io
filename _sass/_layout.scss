@@ -31,7 +31,7 @@
  * Landing page
  */
 #wrapper {
-	width: 17 * $spacing-unit;
+	width: 23 * $spacing-unit;
 
 	@include media-query ($mobile) {
 		@include calc(width, "100% - 64px");
@@ -41,7 +41,7 @@
 	h1 {
 		font-size: $header-font-size;
 		font-family: $base-font-family;
-		width: 17 * $spacing-unit;
+		width: 23 * $spacing-unit;
 		margin-bottom: 8px;
 
 		@include media-query ($mobile) {
@@ -52,7 +52,7 @@
 	p {
 		font-family: $base-font-family;
 		font-size: $content-font-size;
-		width: 17 * $spacing-unit;
+		width: 23 * $spacing-unit;
 		line-height: 30px;
 		margin-bottom: $spacing-unit;
 

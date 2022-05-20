@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Exodemic</title>
+  <release-dates>
+	  <release-date>July 5, 2022</release-date>
+  </release-dates>
+  <website></website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request>mailto://ganashawgames@gmail.com</press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Steam (PC)</name>
+      <link>https://store.steampowered.com/app/1928370/Exodemic/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>9.99</value>
+    </price>
+  </prices>
+
+  <description>Destroy aliens, dash between planets, and buy powerful upgrades. Exodemic is a compact roguelike that combines frenetic shoot 'em up gameplay with a procedurally generated overworld filled with vendors, trading hubs, and combat encounters. Race against the clock to save the human race.
+  </description>
+
+  <!-- Choose between a single block: -->
+  <history>I started working on Exodemic in June 2021 with the goal being to finally finish a game after years of starting games. I originally thought I could complete the game in a few months, but it ended up taking almost exactly a year working on it every night in between being a full time software developer and full time dad.</history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+	  <feature>3 unique ships to unlock, with 3 difficulties per ship</feature>
+	  <feature>Thousands of different build combinations from unique augments</feature>
+	  <feature>Procedurally generated overworld to keep each run fresh</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Gameplay Trailer</name>
+
+      <!-- Pick one: -->
+      <youtube>
+		  FQa_PAXa_Hc
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <steam>
+      <!-- Steam ID -->
+		<!-- e.g. 424242 -->
+		1928370
+    </steam>
+  </widgets>
+  <!--
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+  -->
+  <additionals>
+    <additional>
+      <title>Official Discord</title>
+      <description>Join our official discord community!</description>
+      <link>https://discord.gg/u99QMMZaq3</link>
+    </additional>
+  </additionals>
+  <!--
+  <credits>
+    <credit>
+      <person></person>
+      <role></role>
+      <website></website>
+    </credit>
+  </credits>
+  -->
+  <contacts>
+    <contact>
+      <name>Email</name>
+
+      <!-- Pick one: -->
+      <mail>ganashawgames@gmail.com</mail>
+  </contact>
+    <contact>
+      <name>Twitter</name>
+
+      <!-- Pick one: -->
+	  <link>https://twitter.com/ganashaw</link>
+    </contact>
+  </contacts>
+</product>
